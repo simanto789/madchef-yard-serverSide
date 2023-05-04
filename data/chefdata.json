@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://i.ibb.co/fvBFQy0/chef2.jpg",
         "name": "John Smith",
         "experience": 10,
         "recipes": 50,
@@ -9,7 +9,7 @@
       },
       {
         "id": 2,
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://i.ibb.co/z29N0Jh/chef3.jpg",
         "name": "Jane Doe",
         "experience": 5,
         "recipes": 30,
@@ -17,7 +17,7 @@
       },
       {
         "id": 3,
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://i.ibb.co/XpYdfy1/chef4.jpg",
         "name": "Michael Lee",
         "experience": 8,
         "recipes": 40,
@@ -25,7 +25,7 @@
       },
       {
         "id": 4,
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://i.ibb.co/M7SjgPD/chef6.jpg",
         "name": "Sarah Brown",
         "experience": 3,
         "recipes": 20,
@@ -33,7 +33,7 @@
       },
       {
         "id": 5,
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://i.ibb.co/jMwrsHT/chef5.jpg",
         "name": "Robert Johnson",
         "experience": 12,
         "recipes": 60,
@@ -41,7 +41,7 @@
       },
       {
         "id": 6,
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://i.ibb.co/Tw1ZdpV/chef8.jpg",
         "name": "Emily Davis",
         "experience": 6,
         "recipes": 35,
