@@ -3,7 +3,9 @@
         "id": 1,
         "picture": "https://i.ibb.co/fvBFQy0/chef2.jpg",
         "name": "John Smith",
+        "details":"Chef John Smith is a seasoned culinary expert known for her innovative approach to American comfort food. She seamlessly blends traditional flavors with modern techniques, creating dishes that leave a lasting impression on diners.",
         "experience": 10,
+        "rating": 4.5,
         "recipes": 50,
         "likes": 5000
       },
@@ -11,6 +13,8 @@
         "id": 2,
         "picture": "https://i.ibb.co/z29N0Jh/chef3.jpg",
         "name": "Jane Doe",
+        "details":"Chef Jane Doe is a charismatic and adventurous chef with a flair for fusion cuisine. He combines American flavors with influences from his Hispanic heritage, resulting in unique and exciting dishes that showcase his bold creativity.",
+        "rating": 4.3,
         "experience": 5,
         "recipes": 30,
         "likes": 3000
@@ -19,7 +23,9 @@
         "id": 3,
         "picture": "https://i.ibb.co/XpYdfy1/chef4.jpg",
         "name": "Michael Lee",
+        "details":": Chef Michael Lee is a rising star in the culinary world, known for her farm-to-table approach and emphasis on sustainable cooking. Her dishes celebrate seasonal ingredients sourced from local farmers, showcasing the vibrant flavors of American produce.",
         "experience": 8,
+        "rating": 4.2,
         "recipes": 40,
         "likes": 4000
       },
@@ -27,7 +33,9 @@
         "id": 4,
         "picture": "https://i.ibb.co/M7SjgPD/chef6.jpg",
         "name": "Sarah Brown",
+        "details":" Chef Sarah Brown is a master of barbecue and all things grilled. With a passion for smoky flavors and perfectly charred meats, She takes classic American barbecue to new heights with his innovative rubs, sauces, and cooking techniques.",
         "experience": 3,
+        "rating": 4.1,
         "recipes": 20,
         "likes": 2000
       },
@@ -35,7 +43,9 @@
         "id": 5,
         "picture": "https://i.ibb.co/jMwrsHT/chef5.jpg",
         "name": "Robert Johnson",
+        "details":"Chef Robert Johnson is a pastry virtuoso renowned for her exquisite desserts and pastries. Her creations are not only visually stunning but also delightfully indulgent, showcasing the best of American baking traditions with a modern twist.",
         "experience": 12,
+        "rating": 4.5,
         "recipes": 60,
         "likes": 6000
       },
@@ -43,7 +53,9 @@
         "id": 6,
         "picture": "https://i.ibb.co/Tw1ZdpV/chef8.jpg",
         "name": "Emily Davis",
+        "details":": Chef Emily Davis is a culinary storyteller, passionate about recreating nostalgic American flavors with a contemporary touch. She draws inspiration from his family recipes and regional favorites, crafting dishes that evoke a sense of nostalgia and comfort.",
         "experience": 6,
+        "rating": 4.0,
         "recipes": 35,
         "likes": 3500
       }
